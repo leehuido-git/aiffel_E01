@@ -56,7 +56,7 @@ $ pip install -r requirements.txt
 
 ### result
 
-![result](./imgs/result.png)
+![result](./imgs/result.PNG)
 
 ------------
 ## hyper parameter 수정 내용
