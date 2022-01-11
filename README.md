@@ -48,15 +48,15 @@ $ pip install -r requirements.txt
 ------------
 ### model
 
-![model](./img/model.png)
+![model](./imgs/model.png)
 
 ### loss
 
-![loss](./img/loss.png)
+![loss](./imgs/loss.png)
 
 ### result
 
-![result](./img/result.png)
+![result](./imgs/result.png)
 
 ------------
 ## hyper parameter 수정 내용
