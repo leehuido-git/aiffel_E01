@@ -79,7 +79,7 @@ mk5: 0.6~0.7
 (28, 28, 3), trainset:5627, epochs=10, Dense layer(512) 1개 삭제
 
 mk6: 0.6~0.7
-(56, 56, 3), trainset:5627, epochs=6
+(56, 56, 3), trainset:5627, epochs=6, Dense layer(512) 1개 
 
 ------------
 ## 차별점, 문제점
